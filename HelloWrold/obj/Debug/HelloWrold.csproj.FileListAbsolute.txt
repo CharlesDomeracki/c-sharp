@@ -1,0 +1,7 @@
+C:\CharlesDomeracki\HelloWrold\HelloWrold\bin\Debug\HelloWrold.exe.config
+C:\CharlesDomeracki\HelloWrold\HelloWrold\bin\Debug\HelloWrold.exe
+C:\CharlesDomeracki\HelloWrold\HelloWrold\bin\Debug\HelloWrold.pdb
+C:\CharlesDomeracki\HelloWrold\HelloWrold\obj\Debug\HelloWrold.csprojAssemblyReference.cache
+C:\CharlesDomeracki\HelloWrold\HelloWrold\obj\Debug\HelloWrold.csproj.CoreCompileInputs.cache
+C:\CharlesDomeracki\HelloWrold\HelloWrold\obj\Debug\HelloWrold.exe
+C:\CharlesDomeracki\HelloWrold\HelloWrold\obj\Debug\HelloWrold.pdb
